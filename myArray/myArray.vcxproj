@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7c66bde1-aad6-4ec2-b966-72d608262c06}</ProjectGuid>
-    <RootNamespace>mytrialC</RootNamespace>
+    <ProjectGuid>{a50cbd69-096e-4e1f-8ece-bb42e59f400f}</ProjectGuid>
+    <RootNamespace>myArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\msys64\home\dogan.corus\myCproject\myCproject.workspace" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="helloWorld.c" />
+    <ClCompile Include="myArray.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

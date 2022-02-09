@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\msys64\home\dogan.corus\myCproject\myCproject.workspace" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="helloWorld.c">
+    <ClCompile Include="myArray.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
