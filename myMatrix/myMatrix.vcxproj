@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7c66bde1-aad6-4ec2-b966-72d608262c06}</ProjectGuid>
-    <RootNamespace>mytrialC</RootNamespace>
+    <ProjectGuid>{1c04d1c5-884d-4afd-9fc8-33372edf660c}</ProjectGuid>
+    <RootNamespace>myMatrix</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>helloWorld</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,10 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\msys64\home\dogan.corus\myCproject\myCproject.workspace" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="helloWorld.c" />
+    <ClCompile Include="myMatrix.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

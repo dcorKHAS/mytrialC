@@ -7,7 +7,8 @@ printf("%d ", counter);
 }
 
 int retrieve(void){
- return counter;
+	
+	return counter;
 }
 
 int main(void) {
