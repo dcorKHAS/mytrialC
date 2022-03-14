@@ -17,15 +17,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myScopeExercise", "myScopeE
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mySwap", "mySwap\mySwap.vcxproj", "{9B6B4E35-EFC4-4AFE-9C36-C212EBA59C38}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strSearchTest", "..\strSearchTest\strSearchTest.vcxproj", "{F84E2193-4F75-4612-B170-5EA47458A458}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strSearchTest", "strSearchTest\strSearchTest.vcxproj", "{F84E2193-4F75-4612-B170-5EA47458A458}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stringTokenizer", "..\stringTokenizer\stringTokenizer.vcxproj", "{AE4AB186-CD71-450A-8FA7-56F6A76C4F95}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stringTokenizer", "stringTokenizer\stringTokenizer.vcxproj", "{AE4AB186-CD71-450A-8FA7-56F6A76C4F95}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "formattedInputExample", "..\formattedInputExample\formattedInputExample.vcxproj", "{5151E972-4B0F-45C1-8A30-18AD4FE86523}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "formattedInputExample", "formattedInputExample\formattedInputExample.vcxproj", "{5151E972-4B0F-45C1-8A30-18AD4FE86523}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primeTest", "..\primeTest\primeTest.vcxproj", "{482D9F66-CA66-4D5E-B754-C5A0E105ED99}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primeTest", "primeTest\primeTest.vcxproj", "{482D9F66-CA66-4D5E-B754-C5A0E105ED99}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timeExample", "..\timeExample\timeExample.vcxproj", "{ED0FFD93-263D-4B39-88C8-60C571FBB7FF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timeExample", "timeExample\timeExample.vcxproj", "{ED0FFD93-263D-4B39-88C8-60C571FBB7FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
