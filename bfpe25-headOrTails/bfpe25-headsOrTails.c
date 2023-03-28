@@ -9,8 +9,8 @@ int main() {
 
 	
 	
-	int headsCount = 0;//Can only be used in the main function
-	int tailsCount = 0;
+	float headsCount = 0;//Can only be used in the main function
+	float tailsCount = 0;
 	char  inputString[10];
 
 
@@ -57,26 +57,10 @@ int main() {
 
 	//YOU CAN DO ANYTHING with either loops
 
-
-
-
-
-
-
-
-
 	//4. option
 
-
-
-
-
-
-
-
-
-	printf("Head won %d times and tails won %d times", headsCount, tailsCount);
-
+	printf("Head won %.0f times and tails won %.0f times", headsCount, tailsCount);
+	printf("%f%% Heads %f%% Tails", 100.0 * headsCount / (headsCount + tailsCount), 100.0 * tailsCount / (headsCount + tailsCount));
 	return 0;
 
 
