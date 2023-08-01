@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bfpe25-headOrTails", "bfpe2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2dPlatform", "..\..\..\..\..\vsRepos\2dPlatform\2dPlatform.vcxproj", "{B39A8672-1740-49F5-86C2-F13790977653}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "platform", "..\..\..\..\..\vsRepos\platform\platform.vcxproj", "{3D66C077-3B22-4CEB-A055-81340137466C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{B39A8672-1740-49F5-86C2-F13790977653}.Release|x64.Build.0 = Release|x64
 		{B39A8672-1740-49F5-86C2-F13790977653}.Release|x86.ActiveCfg = Release|Win32
 		{B39A8672-1740-49F5-86C2-F13790977653}.Release|x86.Build.0 = Release|Win32
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Debug|x64.ActiveCfg = Debug|x64
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Debug|x64.Build.0 = Debug|x64
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Debug|x86.Build.0 = Debug|Win32
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Release|x64.ActiveCfg = Release|x64
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Release|x64.Build.0 = Release|x64
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Release|x86.ActiveCfg = Release|Win32
+		{3D66C077-3B22-4CEB-A055-81340137466C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
