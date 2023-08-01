@@ -1,11 +1,14 @@
 #include <stdio.h>
-
+void swap(int * a, int * b);
 int main()
 {
-    
+       
     int a = 10; // "int" is the data type,  "a" identifier  "=" is an assignment operation  
                 //"10" is a literal, everythin in green are comments
     int b = 20;
+
+    swap(&a, &b);
+
 
     printf("hello world!\n"); // "hello world!" is a string literal (including the parantheses)
     printf("a=%d and b=%d\n", a, b); //prints "a=10 and b=20"
@@ -31,5 +34,14 @@ int main()
     b = c;
     printf("a=%d and b=%d\n", a, b);
     */
+
+}
+void swap(int* a, int* b) {
+
+    int temp;
+    temp = *a;
+    *a = *b;
+    *b = temp;
+
 
 }
