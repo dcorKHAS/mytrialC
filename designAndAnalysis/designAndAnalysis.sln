@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skiena_ex_10_2_robber", "Sk
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skiena_ex_10_1_stairsNK", "Skiena_ex_10_1_stairsNK\Skiena_ex_10_1_stairsNK.vcxproj", "{BADDC8B3-82DC-4B1F-97AA-5C624F820B74}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skiena_ex_10_3_4_basket", "Skiena_ex_10_3_4_basket\Skiena_ex_10_3_4_basket.vcxproj", "{819A015D-2C1D-4C8C-A189-378B8E66A97A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BADDC8B3-82DC-4B1F-97AA-5C624F820B74}.Release|x64.Build.0 = Release|x64
 		{BADDC8B3-82DC-4B1F-97AA-5C624F820B74}.Release|x86.ActiveCfg = Release|Win32
 		{BADDC8B3-82DC-4B1F-97AA-5C624F820B74}.Release|x86.Build.0 = Release|Win32
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Debug|x64.ActiveCfg = Debug|x64
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Debug|x64.Build.0 = Debug|x64
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Debug|x86.ActiveCfg = Debug|Win32
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Debug|x86.Build.0 = Debug|Win32
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Release|x64.ActiveCfg = Release|x64
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Release|x64.Build.0 = Release|x64
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Release|x86.ActiveCfg = Release|Win32
+		{819A015D-2C1D-4C8C-A189-378B8E66A97A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
